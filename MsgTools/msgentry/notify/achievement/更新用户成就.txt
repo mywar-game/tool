@@ -1,0 +1,4 @@
+action:Achievement_update:成就信息变更推送接口
+start
+list<UserAchievementBO>:updateUserAchievementList:需要更新的用户成就信息
+end

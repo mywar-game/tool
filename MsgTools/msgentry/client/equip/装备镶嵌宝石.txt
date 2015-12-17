@@ -1,0 +1,12 @@
+action:EquipAction_equipFillInGemstone:装备镶嵌宝石\换宝石、取下宝石
+error:2001:该装备没有镶孔
+error:2002:该装备镶嵌已满
+error:4001:背包已满
+start
+string:userEquipId:用户装备id
+string:userGemstoneId:用户宝石id
+int:pos:镶嵌的位置 (0 取下,1 号位，装备有几个空就几个位置)
+end
+start
+list<UserGemstoneBO>:userGemstoneBOList:用户宝石列表信息
+end

@@ -1,0 +1,9 @@
+action:Boss_enter:用户进入Boss战广播
+start
+string:userId:进入场景的用户唯一编号
+UserHeroBO:userHeroBO:用户英雄
+List<UserEquipBO>:equipList:用户装备列表
+int:posX:进入场景所在x坐标
+int:posY:进入场景所在y坐标
+string:userName:玩家名称
+end

@@ -1,0 +1,8 @@
+action:LegionAction_applyJoinLegion:申请加入公会
+error:2001:已经加入公会
+error:2002:你已经申请了3个公会
+start
+string:legionId:公会id
+end
+start
+end

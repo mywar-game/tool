@@ -1,0 +1,2 @@
+		@paramName@ = inputStream.readBoolean();
+

@@ -1,0 +1,15 @@
+action:LegionAction_createLegion:创建军团
+error:2001:你已经加入了公会
+error:2002:公会名称不能为空
+error:2003:公会名称太长
+error:2004:公会名称已存在
+error:3003:钻石不足
+error:3004:金币不足
+start
+string:legionName:军团名称
+int:type:创建军团花费类型， 1 钻石 2 金币
+end
+start
+LegionInfoBO:legionInfo:军团信息
+UserLegionInfoBO:userLegionInfo:用户军团信息
+end

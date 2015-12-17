@@ -1,0 +1,7 @@
+action:AdminAction_sendSystemMsg:发送跑马灯信息
+start
+string:content:邮件内容
+string:partnerId:渠道号
+end
+start
+end

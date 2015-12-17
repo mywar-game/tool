@@ -1,0 +1,4 @@
+action:Mall_pushMysteriousMall:推送神秘商店信息
+start
+int:mapId:神秘商店出现的地图
+end

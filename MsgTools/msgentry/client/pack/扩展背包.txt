@@ -1,0 +1,10 @@
+action:PackAction_extendPack:扩展背包
+error:2001:扩展次数已满
+error:2002:扩展后背包次数超过限制
+error:3003:钻石不足
+start
+int:extendNum:扩展几个格子
+end
+start
+CommonGoodsBeanBO:drop:通用掉落对象
+end

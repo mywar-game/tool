@@ -1,0 +1,5 @@
+action:ForcesAction_cancelCollect:取消采集
+start
+end
+start
+end

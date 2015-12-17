@@ -1,0 +1,9 @@
+start
+classname:UserChatRecordBO:用户聊天内容对象
+string:userId:发言的用户id
+string:userName:发言用户名
+string:targetUserId:目标用户id
+string:targetUserName:目标用户名
+string:content:聊天内容
+int:type:聊天类型(1 世界 2 阵营  3 军团 4 私聊)
+end

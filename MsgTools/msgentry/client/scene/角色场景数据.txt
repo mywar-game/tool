@@ -1,0 +1,8 @@
+start
+classname:UserSceneDataBO:用户场景数据BO
+string:userId:用户编号
+string:userName:用户名称
+int:heroId:角色模型id
+int:posX:所在位置x坐标
+int:posY:所在位置y坐标
+end

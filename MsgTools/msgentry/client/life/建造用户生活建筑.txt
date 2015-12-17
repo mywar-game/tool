@@ -1,0 +1,11 @@
+action:LifeAction_createLifeBuilder:建造用户生活建筑
+error:2001:已经建造了该建筑
+error:2002:花圃与矿场只能二选一
+error:3003:钻石不足
+error:3004:金币不足
+start
+int:category:建造的类别 （1 矿场 2 花圃 3 渔场）
+end
+start
+UserLifeInfoBO:userLifeInfoBO:用户生活信息对象
+end

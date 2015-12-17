@@ -1,0 +1,6 @@
+action:MallAction_getMysteriousMallInfo:获取神秘商店的信息
+start
+end
+start
+List<UserMysteriousMallBO>:userMallList:用户商品信息列表
+end

@@ -1,0 +1,12 @@
+action:LegionAction_editDeclaration:修改军团宣言
+error:2001:你已经不在该公会
+error:2004:你没有该权限
+error:2002:内容不能为空
+error:2003:内容太多
+error:2005:公会已被解散
+start
+string:declaration:军团宣言内容
+end
+start
+string:declaration:军团宣言内容
+end

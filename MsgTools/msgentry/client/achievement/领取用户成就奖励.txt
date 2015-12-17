@@ -1,0 +1,11 @@
+action:AchievementAction_receiveAchievementReward:领取用户成就奖励
+error:2001:成就未完成
+error:2002:奖励已领取
+error:4001:背包已满
+error:4002:英雄背包已满
+start
+int:achievementId:成就id
+end
+start
+CommonGoodsBeanBO:drop:得到的奖励对象
+end

@@ -1,0 +1,6 @@
+action:PrestigeAction_getInviteHeroInfo:获取用户酒馆招募英雄的信息
+start
+end
+start
+list<InviteHeroBO>:inviteHeroList:英雄列表
+end

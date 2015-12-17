@@ -1,0 +1,13 @@
+action:LegionAction_deposeLegionDeputy:罢免副军团长
+error:2001:没有加入该公会
+error:2004:你没有该操作权限
+error:2005:公会被解散了
+error:2007:该玩家去了另一个公会
+error:2008:该玩家已经离开公会
+error:2010:该玩家不是副会长
+start
+string:deputyUserId:副会长用户id
+end
+start
+string:deputyUserId:副会长用户id
+end

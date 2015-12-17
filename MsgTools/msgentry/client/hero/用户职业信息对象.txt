@@ -1,0 +1,5 @@
+start
+classname:UserCareerInfoBO:用户职业信息对象
+int:detailedCareerId:详细职业id
+int:level:已打开的层数
+end

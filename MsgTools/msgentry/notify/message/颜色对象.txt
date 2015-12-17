@@ -1,0 +1,6 @@
+start
+classname:ColorBO:颜色对象
+int:r:红
+int:g:绿
+int:b:蓝
+end

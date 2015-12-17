@@ -1,0 +1,9 @@
+action:MailAction_oneClickReceive:一键领取邮件附件
+error:2001:没有附件可领取
+error:4001:背包满了
+error:4002:英雄背包已满
+start
+end
+start
+CommonGoodsBeanBO:drop:通用奖励对象
+end

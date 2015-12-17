@@ -1,0 +1,7 @@
+action:HeroAction_getUserCareerClearInfo:获取用户职业解锁信息
+error:4005:系统数据缺失
+start
+end
+start
+list<UserCareerInfoBO>:userCareerInfoList:用户职业信息列表
+end

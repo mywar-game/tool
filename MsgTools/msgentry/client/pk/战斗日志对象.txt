@@ -1,0 +1,10 @@
+start
+classname:PkFightLogBO:战斗日志对象
+string:targetUserName:用户姓名
+int:flag:胜负（0 负 1 胜）
+int:systemHeroId:系统英雄id
+int:level:等级
+long:fightTime:挑战时间
+int:rank:自己的排名
+int:changeRank:排名变化
+end

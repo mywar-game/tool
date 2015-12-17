@@ -1,0 +1,7 @@
+action:LegionAction_getLegionList:查看公会列表
+start
+end
+start
+list<LegionInfoBO>:recommendLegionList:推荐的军团列表
+list<LegionInfoBO>:legionRankList:军团排行榜列表
+end

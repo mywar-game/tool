@@ -1,0 +1,6 @@
+action:LegionAction_leaveLegion:离开公会
+error:2001:会长不能离开公会
+start
+end
+start
+end

@@ -1,0 +1,5 @@
+start
+classname:UserPropertiesBO:用户属性对象信息
+int:key:1人民币、2体力、3活力、4vip经验、5vip等级、6体力下次恢复时间、7活力下次恢复时间
+long:value:当前该属性的最新值，客户端覆盖该值即可
+end

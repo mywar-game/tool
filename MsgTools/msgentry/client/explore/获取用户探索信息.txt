@@ -1,0 +1,7 @@
+action:ExploreAction_getUserExploreInfo:获取用户探索信息
+error:3007:未到开放等级
+start
+end
+start
+UserExploreInfoBO:userExploreInfoBO:用户探索信息
+end

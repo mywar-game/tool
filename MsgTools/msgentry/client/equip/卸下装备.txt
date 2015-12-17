@@ -1,0 +1,8 @@
+action:EquipAction_unWearEquip:卸下装备
+error:4001:背包已满
+start
+string:userEquipId:用户装备id
+end
+start
+UserEquipBO:userEquipBO:用户装备
+end

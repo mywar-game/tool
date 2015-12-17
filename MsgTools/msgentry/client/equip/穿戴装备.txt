@@ -1,0 +1,14 @@
+action:EquipAction_wearEquip:穿戴装备
+error:2001:装备不存在
+error:2002:穿戴位置不正确
+error:2003:穿戴装备的职业不符
+error:2004:正在使用双手武器
+error:3007:英雄的穿戴等级不足
+start
+string:userHeroId:要穿戴的英雄id
+string:userEquipId:用户装备id
+int:pos:位置
+end
+start
+list<UserEquipBO>:userEquipBOList:用户装备列表
+end

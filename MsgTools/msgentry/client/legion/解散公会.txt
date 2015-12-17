@@ -1,0 +1,7 @@
+action:LegionAction_dismissLegion:解散公会
+error:2001:没有加入公会
+error:2004:你没有该操作权限
+start
+end
+start
+end

@@ -1,0 +1,9 @@
+action:ForcesAction_getCollectFightReward:获取采集以及打怪的奖励
+start
+int:mapId:地图id
+int:forcesId:采集点id
+int:flag:-1输,0平局,1赢
+end
+start
+CommonGoodsBeanBO:drop:公共物品掉落
+end

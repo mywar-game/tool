@@ -1,0 +1,8 @@
+action:ForcesAction_endAttack:攻击关卡结束
+error:2001:时间异常
+start
+int:flag:-1输,0平局,1赢,如果为采集关卡直接传1即可
+end
+start
+CommonGoodsBeanBO:drop:获得的物品
+end

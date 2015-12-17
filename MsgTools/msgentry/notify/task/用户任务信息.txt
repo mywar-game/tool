@@ -1,0 +1,8 @@
+start
+classname:UserTaskBO:用户任务信息
+int:systemTaskId:系统任务id，可根据该信息从静态数据中获取任务详情
+int:finishTimes:已完成次数
+int:status:状态 0可领取 1已领取  2已完成  3已获得奖励
+int:star:任务的星数（只用于日常任务）
+end
+

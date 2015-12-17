@@ -1,0 +1,5 @@
+start
+classname:MessageBO:跑马灯消息对象
+string:txt:内容
+ColorBO:cor:颜色对象
+end

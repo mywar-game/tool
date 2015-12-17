@@ -1,0 +1,8 @@
+action:LegionAction_getLegionInfo:查看自己的公会信息
+start
+end
+start
+UserLegionInfoBO:userLegionInfoBO:用户的公会信息
+LegionInfoBO:legionInfo:军团信息
+List<String>:applyLegionIdList:申请的公会id列表（已入公会的为空）
+end

@@ -1,0 +1,8 @@
+action:TaskAction_refreshFiveStar:刷新五星任务
+error:2001:无可刷新的任务
+error:3003:钻石不足
+start
+end
+start
+UserDailyTaskInfoBO:userDailyTaskInfo:五星的日常任务
+end

@@ -1,0 +1,6 @@
+start
+classname:PkMallBO:荣誉兑换对象
+int:mallId:商品id
+int:dayBuyNum:每日已购买次数
+int:totalBuyNum:总共已购买次数
+end

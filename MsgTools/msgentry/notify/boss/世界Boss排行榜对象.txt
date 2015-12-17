@@ -1,0 +1,6 @@
+start
+classname:UserBossRankBO:世界Boss排行榜对象
+int:rank:排名
+string:userName:用户名
+long:value:值
+end

@@ -1,0 +1,8 @@
+action:LegionAction_getApplyList:查看申请列表
+error:2001:没有加入该公会
+error:2004:你没有该操作权限
+start
+end
+start
+List<UserApplyLegionBO>:userApplyList:用户申请列表
+end

@@ -1,0 +1,13 @@
+action:MailAction_sendEmail:发送邮件
+error:2001:用户不存在
+error:2002:不能给自己发邮件
+error:2003:字数太多
+error:2006:你已经把对方拉黑
+error:2007:对方已经把你拉黑
+start
+string:toUserId:发往用户id
+string:name:用户名
+string:content:内容
+end
+start
+end

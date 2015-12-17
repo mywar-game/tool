@@ -1,0 +1,21 @@
+action:EquipAction_equipForge:锻造
+error:2001:还未开始锻造
+error:3007:等级不足
+error:3005:道具不足
+error:3004:金币不足
+error:4003:锻造还未完成
+start
+int:forgeType:1 装备锻造  3 矿石锻造  4  草药淬炼 
+int:toolType:道具类型
+int:toolId:道具id
+int:status:状态：1 开始锻造 2 取消锻造 3 完成锻造
+string:material:材料（只有在“其他”里面需要传入）
+int:num:数量（默认传入 1  只有在“其他”里面用户选择输入）
+end
+start
+CommonGoodsBeanBO:drop:通用奖励对象
+int:money:剩余钻石
+int:gold:剩余金币
+List<GoodsBeanBO>:goodsList:消耗的道具
+List<String>:userEquipIdList:消耗掉的用户装备id列表
+end

@@ -1,0 +1,10 @@
+action:HeroAction_getUserBattleInfo:获取用户阵容信息
+start
+string:userId:用户id
+end
+start
+List<UserHeroBO>:userHeroList:用户英雄列表
+List<UserEquipBO>:userEquipList:英雄装备列表
+List<UserGemstoneBO>:userGemstoneList:用户宝石列表
+UserBO:user:用户对象
+end

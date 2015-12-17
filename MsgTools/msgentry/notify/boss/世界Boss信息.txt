@@ -1,0 +1,9 @@
+start
+classname:WorldBossInfoBO:世界Boss信息
+long:maxLife:boss最大生命值
+long:currentLife:boss当前生命值
+long:openTime:开启时间
+long:continueTimes:持续时间
+int:bossLevel:boss等级
+int:mapId:地图id
+end

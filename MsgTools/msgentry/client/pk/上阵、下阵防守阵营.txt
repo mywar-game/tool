@@ -1,0 +1,6 @@
+action:PkAction_changePos:上阵、下阵防守阵营
+start
+list<string>:userHeroIdList:用户英雄id列表
+end
+start
+end

@@ -1,0 +1,10 @@
+action:SettingAction_commitAdvice:提交建议
+error:2001:标题太长哦
+error:2002:内容太长哦
+error:2003:隔十分钟才能发一次哦！
+start
+string:title:标题
+string:content:内容
+end
+start
+end

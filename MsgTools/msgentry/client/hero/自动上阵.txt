@@ -1,0 +1,6 @@
+action:HeroAction_autoAmenb:自动上阵
+start
+end
+start
+list<UserHeroBO>:updateHeroList:需要更新的英雄列表，如果客户端缓存中存在该列表中的英雄对象，则替换
+end

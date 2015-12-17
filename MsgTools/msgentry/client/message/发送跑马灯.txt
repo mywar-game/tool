@@ -1,0 +1,11 @@
+action:MessageAction_sendMsg:发送跑马灯
+error:2001:内容不能为空
+error:2002:内容过长
+error:2003:请一分钟以后再发
+error:3005:道具不足
+start
+string:content:跑马灯内容
+end
+start
+GoodsBeanBO:goodsBeanBO:消耗的道具
+end

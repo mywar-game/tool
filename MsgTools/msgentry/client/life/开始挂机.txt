@@ -1,0 +1,16 @@
+action:LifeAction_hangup:开始挂机
+error:2001:正在挂机中
+error:2002:没有建造该建筑
+error:2003:该玩家不是你的好友
+error:2004:该英雄在挂机中
+error:2005:该英雄已被遣散
+error:2006:该英雄正在阵上
+error:3006:vip等级不足
+start
+int:category:类别 （1 矿场 2 花圃 3 渔场）
+List<string>:userHeroIdList:用户英雄id列表
+string:userFriendId:好友用户id
+end
+start
+UserLifeInfoBO:userLifeInfoBO:用户生活信息对象
+end

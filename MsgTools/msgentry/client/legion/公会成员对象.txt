@@ -1,0 +1,8 @@
+start
+classname:LegionMemberBO:公会成员对象
+string:userId:成员用户id
+string:userName:成员名称
+int:level:成员等级
+int:status:0 离线 1 在线
+int:identity:身份 1 团长 2 副团长 3 普通成员
+end

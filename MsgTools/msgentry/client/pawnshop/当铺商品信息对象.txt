@@ -1,0 +1,6 @@
+start
+classname:UserPawnshopBO:当铺商品信息对象
+int:mallId:商品id
+int:num:商品数量
+int:floatValue:浮动值
+end

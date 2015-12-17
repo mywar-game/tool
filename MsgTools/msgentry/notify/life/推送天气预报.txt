@@ -1,0 +1,4 @@
+action:Life_pushWeatherInfo:推送天气预报
+start
+WeatherInfoBO:weatherInfo:天气信息对象
+end

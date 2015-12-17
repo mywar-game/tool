@@ -1,0 +1,4 @@
+action:Boss_pushWorldBossCurrentLife:推送世界Boss当前血量
+start
+long:currentLife:Boss当前血量
+end

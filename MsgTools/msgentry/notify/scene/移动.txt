@@ -1,0 +1,6 @@
+action:Scene_move:场景中移动广播
+start
+string:userId:用户唯一编号
+int:posX:移动目的地的x坐标
+int:posY:移动目的地y坐标
+end

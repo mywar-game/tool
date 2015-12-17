@@ -1,0 +1,22 @@
+action:GemstoneAction_gemstoneForge:合成宝石
+error:2001:还未开始合成
+error:3004:金币不足
+error:3005:道具不足
+error:3007:等级不足
+error:4003:合成还未完成
+start
+int:forgeType:1 宝石合成  3 矿石切割 
+int:toolId:道具id
+int:toolType:道具类型
+int:status:状态：1 开始 2 取消 3 完成
+string:material:材料（只有在“其他”里面需要传入）
+int:num:数量（默认传入 1  只有在“其他”里面用户选择输入）
+end
+start
+int:status:状态：1 开始 2 取消 3 完成
+CommonGoodsBeanBO:drop:通用奖励对象
+List<string>:userGemstoneIdList:消耗掉的用户宝石id列表
+List<GoodsBeanBO>:goodsList:消耗的道具
+int:gold:用户剩余金币
+int:money:用户剩余钻石
+end

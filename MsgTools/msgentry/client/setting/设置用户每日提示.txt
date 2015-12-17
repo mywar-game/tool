@@ -1,0 +1,6 @@
+action:SettingAction_setDailyTips:设置用户每日提示
+start
+int:tip:提示编号
+end
+start
+end

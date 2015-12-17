@@ -1,0 +1,10 @@
+action:ActivityAction_receiveLoginReward30:领取每月签到奖励
+error:2001:未达到领取条件
+error:2002:奖励已经领取
+error:4001:背包已满
+start
+int:day:领取第几天
+end
+start
+CommonGoodsBeanBO:drop:得到的奖励对象
+end

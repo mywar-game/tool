@@ -1,0 +1,5 @@
+start
+classname:EffectBO:技能效果对象
+List<UserAttactBossInfoBO>:attactList:用户攻击信息列表
+string:buff:效果buff
+end

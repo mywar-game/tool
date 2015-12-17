@@ -1,0 +1,8 @@
+action:SceneAction_open:开启场景
+error:2001:等级不足
+start
+int:sceneId:场景id
+end
+start
+int:sceneId:场景id，客户端需要将该sceneId加入到已开启场景列表中
+end

@@ -1,0 +1,6 @@
+action:BossAction_relive:复活
+start
+end
+start
+int:money:用户剩余钻石
+end

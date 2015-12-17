@@ -1,0 +1,11 @@
+action:PackAction_extendStorehouse:扩充仓库格子
+error:2001:扩展次数已满
+error:2002:扩展后仓库格子超过限制
+error:3003:钻石不足
+start
+int:extendNum:扩展几个格子
+end
+start
+int:extendNum:扩展几个格子
+int:money:用户剩余钻石
+end

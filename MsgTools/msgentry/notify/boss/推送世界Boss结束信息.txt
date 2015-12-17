@@ -1,0 +1,4 @@
+action:Boss_pushWorldBossDie:推送世界Boss结束信息
+start
+int:status:0 Boss死掉了  1 时间结束了
+end

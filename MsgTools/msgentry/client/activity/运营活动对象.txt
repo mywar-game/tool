@@ -1,0 +1,18 @@
+start
+classname:SystemActivityBO:运营活动对象
+int:activityId:活动id
+int:activityShowType:显示分类
+int:activityType:活动类型
+string:activityName:活动名称
+string:activityTitle:活动标题
+string:activityDesc:活动描述
+long:startTime:活动开始时间
+long:endTime:活动结束时间
+string:param:扩展参数
+string:openWeeks:开放的星期
+string:openTime:开放的时间段
+int:display:是否显示 0 不显示 1 显示
+int:status:状态 0 开启 1 关闭
+int:sort:排序字段
+int:imgId:图片id
+end

@@ -1,0 +1,11 @@
+action:MallAction_buyBack:回购
+error:3003:钻石不足
+error:3004:金币不足
+error:4001:背包已满
+error:4002:英雄背包已满
+start
+string:buyBackId:回购id
+end
+start
+CommonGoodsBeanBO:drop:公共物品掉落
+end

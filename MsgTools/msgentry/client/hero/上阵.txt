@@ -1,0 +1,13 @@
+action:HeroAction_changeHeroPos:英雄上阵
+error:2001:同类型英雄不能同时上阵超过3个
+error:2002:人数已经达到上阵限制
+error:2003:至少有一个英雄在阵上
+error:2004:队长不能下阵
+error:2005:该英雄已被遣散
+start
+string:userHeroId:用户英雄唯一id
+int:pos:要上到的位置，如果为0则表示该英雄下阵
+end
+start
+list<UserHeroBO>:updateHeroList:需要更新的英雄列表，如果客户端缓存中存在该列表中的英雄对象，则替换
+end

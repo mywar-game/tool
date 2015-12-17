@@ -1,0 +1,7 @@
+action:SceneAction_loaded:加载场景完成
+start
+int:sceneId:场景id
+end
+start
+list<UserSceneDataBO>:sceneUsersList:场景内的用户数据对象列表
+end

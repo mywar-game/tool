@@ -1,0 +1,6 @@
+action:TaskAction_dropTask:放弃任务
+start
+int:systemTaskId:系统任务id
+end
+start
+end

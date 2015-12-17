@@ -1,0 +1,8 @@
+action:Scene_enter:用户进入场景广播
+start
+string:userId:进入场景的用户唯一编号
+int:heroId:用户角色模型id
+int:posX:进入场景所在x坐标
+int:posY:进入场景所在y坐标
+string:userName:玩家名称
+end

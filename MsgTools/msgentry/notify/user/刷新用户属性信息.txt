@@ -1,0 +1,4 @@
+action:User_pushUserProperties:刷新用户属性值
+start
+list<UserPropertiesBO>:userPropertiesList:需要刷新的属性列表
+end

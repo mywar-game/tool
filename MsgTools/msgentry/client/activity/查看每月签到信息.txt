@@ -1,0 +1,6 @@
+action:ActivityAction_getLoginReward30Info:查看每月签到信息
+start
+end
+start
+List<UserLoginRewardBO>:userLoginRewardList:用户签到列表
+end

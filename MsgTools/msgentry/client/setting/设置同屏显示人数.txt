@@ -1,0 +1,7 @@
+action:SettingAction_setDisplayNum:设置同屏显示人数
+start
+int:num:显示人数
+end
+start
+int:num:显示人数
+end

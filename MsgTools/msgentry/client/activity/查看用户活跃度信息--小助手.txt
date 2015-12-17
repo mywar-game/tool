@@ -1,0 +1,8 @@
+action:ActivityAction_getActivityTaskInfo:查看用户活跃度信息--小助手
+start
+end
+start
+List<UserActivityTaskBO>:userActivityTaskList:用户活跃度信息列表
+List<UserActivityTaskRewardBO>:rewardLogList:领取的奖励日志列表
+int:point:用户活跃度
+end

@@ -1,0 +1,7 @@
+action:LifeAction_getUserLifeInfo:获取用户生活技能信息
+error:3007:未到开放等级
+start
+end
+start
+List<UserLifeInfoBO>:userLifeInfoBOList:用户生活信息对象列表
+end

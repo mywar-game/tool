@@ -1,0 +1,7 @@
+action:FriendAction_getUserFriendList:获取好友列表
+error:3007:未到好友系统开放等级
+start
+end
+start
+List<UserFriendInfoBO>:userFriendInfoBOList:用户好友信息对象列表
+end

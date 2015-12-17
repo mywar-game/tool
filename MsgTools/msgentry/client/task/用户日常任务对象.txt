@@ -1,0 +1,6 @@
+start
+classname:UserDailyTaskInfoBO:用户日常任务对象
+int:systemTaskId:系统任务id
+int:star:星数
+int:status:0 可领取 1 已领取 2 已完成 
+end

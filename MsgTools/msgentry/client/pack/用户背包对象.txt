@@ -1,0 +1,5 @@
+start
+classname:UserPackExtendBO:用户背包扩展对象
+int:toolId:道具id
+int:pos:位置(1,2,3,4)
+end

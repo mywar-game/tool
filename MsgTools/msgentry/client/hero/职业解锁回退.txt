@@ -1,0 +1,13 @@
+action:HeroAction_returnJobExp:职业解锁回退
+error:4005:系统数据缺失
+error:3005:道具不足
+error:2001:尚未解锁
+error:2002:已经解锁完毕，不能回退
+start
+int:detailedCareerId:详细职业id
+end
+start
+int:jobExp:用户剩余魂能
+UserCareerInfoBO:userCareerInfo:用户职业信息对象
+GoodsBeanBO:tool:消耗的魂能令牌道具
+end

@@ -1,0 +1,18 @@
+action:GemstoneAction_gemstoneResolve:宝石分解
+error:2001:镶嵌在装备中，不能分解
+error:2002:还未开始分解
+error:3004:金币不足
+error:3007:等级不足
+error:4001:背包已满
+error:4003:还未分解完毕
+start
+List<string>:userGemstoneIdList:用户宝石id列表
+int:status:状态：1 开始 2 取消 3 完成
+end
+start
+int:status:状态：1 开始 2 取消 3 完成
+CommonGoodsBeanBO:drop:通用奖励对象
+int:gold:用户剩余金币
+int:money:用户剩余钻石
+List<string>:userGemstoneIdList:被分解的用户宝石id列表
+end

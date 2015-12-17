@@ -1,0 +1,4 @@
+action:Scene_exit:用户退出场景
+start
+string:userId:退出的用户id
+end

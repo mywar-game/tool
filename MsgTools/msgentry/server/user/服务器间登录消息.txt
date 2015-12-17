@@ -1,0 +1,7 @@
+action:UserAction_login:服务器间通讯用户登录
+start
+string:userId:用户id
+string:userIp:用户ip
+end
+start
+end

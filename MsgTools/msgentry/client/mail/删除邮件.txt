@@ -1,0 +1,6 @@
+action:MailAction_delete:删除邮件
+start
+string:userMailIds:用户邮件ids（1,2,3）
+end
+start
+end

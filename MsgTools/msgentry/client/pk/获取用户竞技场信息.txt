@@ -1,0 +1,9 @@
+action:PkAction_getUserPkInfo:获取用户竞技场信息
+error:3007:未到开放等级
+start
+end
+start
+UserPkInfoBO:userPkInfoBO:用户竞技场信息
+List<String>:userDefenceHeroList:用户防守阵容列表
+List<PkChallengerBO>:userPkList:用户可挑战列表
+end

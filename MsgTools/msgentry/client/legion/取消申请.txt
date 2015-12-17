@@ -1,0 +1,7 @@
+action:LegionAction_cancleApply:取消申请
+error:2001:已经加入该公会
+start
+string:legionId:公会id
+end
+start
+end

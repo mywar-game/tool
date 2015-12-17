@@ -1,0 +1,9 @@
+start
+classname:UserHeroSkillBO:用户英雄技能对象
+string:userId:用户编号
+string:userHeroSkillId:用户英雄技能唯一id
+int:systemHeroSkillId:系统英雄技能唯一编号
+int:skillLevel:技能等级
+int:skillExp:技能经验
+int:pos:技能所在英雄的位置,11、12、13、14、15为主动技能位置,21、22、23、24、25为被动技能的位置,31、32、33、34、35为团长技能位置
+end

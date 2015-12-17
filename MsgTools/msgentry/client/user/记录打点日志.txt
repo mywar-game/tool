@@ -1,0 +1,7 @@
+action:UserAction_recordActionLog:记录打点日志
+start
+int:actionId:打点id
+string:ip:ip
+end
+start
+end

@@ -1,0 +1,6 @@
+start
+classname:UserLegionInfoBO:用户军团信息对象
+string:legionId:军团id
+int:contribution:用户贡献度
+int:identity:军团身份 1 成员 2 副团长 3 军团长
+end

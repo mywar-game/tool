@@ -1,0 +1,4 @@
+action:Boss_pushWorldBossInfo:推送世界Boss信息
+start
+WorldBossInfoBO:worldBossInfoBO:世界boss信息
+end

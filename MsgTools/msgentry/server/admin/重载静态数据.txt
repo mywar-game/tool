@@ -1,0 +1,6 @@
+action:AdminAction_reloadStaticData:重载静态数据
+start
+string:className:重载的静态数据对象的类名称，ALL为全部
+end
+start
+end

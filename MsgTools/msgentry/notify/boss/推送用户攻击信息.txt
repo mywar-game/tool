@@ -1,0 +1,6 @@
+action:Boss_pushUserAttackInfo:推送用户攻击信息
+start
+string:userIdStr:用户Id
+int:skillId:释放的技能id
+List<EffectBO>:effectList:技能效果列表
+end

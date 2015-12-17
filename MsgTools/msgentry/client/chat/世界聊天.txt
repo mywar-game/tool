@@ -1,0 +1,9 @@
+action:ChatAction_worldOfChat:世界聊天
+error:2001:内容太长
+error:2002:与上一条内容相同，请10s后再发送
+start
+string:content:聊天内容
+end
+start
+UserChatRecordBO:userChatRecordBO:用户聊天信息
+end

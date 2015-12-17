@@ -1,0 +1,15 @@
+start
+classname:UserHeroBO:用户英雄对象
+string:userId:用户编号
+string:userHeroId:用户英雄唯一id
+int:systemHeroId:系统英雄唯一编号
+int:level:英雄等级
+int:exp:英雄经验
+int:effective:英雄装等
+int:isScene:是否在场景中 0 不是  1 是
+int:pos:位置 0 不在阵上  1在阵上
+int:isTeamLeader:是否为队长 0 不是 1 是
+int:status:英雄状态 0 在酒馆 1 在空闲的英雄 2  英雄在阵上  3 正在挖矿  4 正在修花圃  5 正在钓鱼
+int:star:星数
+string:heroName:英雄名称
+end

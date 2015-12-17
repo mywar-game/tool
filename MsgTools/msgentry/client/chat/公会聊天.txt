@@ -1,0 +1,11 @@
+action:ChatAction_legionOfChat:公会聊天
+error:2001:内容太长
+error:2002:与上一条内容相同，请10s后再发送
+error:2003:你没有加入公会
+error:2005:公会被解散了
+start
+string:content:聊天内容
+end
+start
+UserChatRecordBO:userChatRecordBO:用户聊天信息
+end

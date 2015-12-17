@@ -1,0 +1,7 @@
+start
+classname:WeatherInfoBO:天气信息对象
+int:mapId:地图id
+int:groupId:组合id
+int:type:类型
+long:endTime:结束时间（时间戳）
+end

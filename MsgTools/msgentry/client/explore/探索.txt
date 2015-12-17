@@ -1,0 +1,10 @@
+action:ExploreAction_explore:探索
+error:2001:探索次数已用完
+start
+int:type:探索（左右）
+end
+start
+CommonGoodsBeanBO:drop:通用奖励对象
+int:exploreTimes:剩余探索次数
+int:mapId:新的地图id
+end

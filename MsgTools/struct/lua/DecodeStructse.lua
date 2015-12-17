@@ -1,0 +1,2 @@
+		body.@paramName@:decode(inputStream)
+

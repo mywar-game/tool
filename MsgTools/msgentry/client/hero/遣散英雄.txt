@@ -1,0 +1,12 @@
+action:HeroAction_disband:遣散英雄
+error:2001:该英雄已被遣散
+error:2002:队长不能被遣散
+error:2003:阵上只剩下一个英雄
+error:2004:该英雄正在挂机中
+error:2005:该英雄正在阵上
+error:2006:该英雄在竞技场的防守阵容中
+start
+string:userHeroId:用户英雄id
+end
+start
+end

@@ -1,0 +1,6 @@
+action:FriendAction_getJoinBattleUserList:获取可参战用户
+start
+end
+start
+List<BattleUserInfoBO>:battleUserList:用户聊天信息
+end

@@ -1,0 +1,5 @@
+start
+classname:UserMysteriousMallBO:用户神秘商店商品对象
+int:mallId:商品id
+int:buyStatus:购买状态 0 可购买  1 不可购买
+end

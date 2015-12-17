@@ -1,0 +1,14 @@
+start
+classname:UserLifeInfoBO:用户生活信息对象
+int:category:类别（1 挖矿 2 花圃 3 钓鱼）
+int:status:状态（0 未创建 1 未挂机 2 正在挂机）
+string:userId:用户编号
+string:userHeroId1:用户英雄唯一id
+string:userHeroId2:用户英雄唯一id
+string:userHeroId3:用户英雄唯一id
+string:userFriendId:用户好友id
+string:userFriendName:用户好友名称
+int:friendSystemHeroId:好友队长英雄id
+long:remainderTime:剩余时间
+CommonGoodsBeanBO:drop:现在的收益
+end

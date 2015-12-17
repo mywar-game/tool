@@ -1,0 +1,11 @@
+action:UAction_login:角色登录接口
+error:2001:还未创建角色(客户端收到这个错误后，需要进去创角流程)
+error:2002:被封号了
+start
+string:token:用户登录令牌
+string:userId:用户编号
+string:partnerId:渠道编号
+string:serverId:服务器编号
+end
+start
+end

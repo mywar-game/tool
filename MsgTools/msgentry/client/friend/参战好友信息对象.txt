@@ -1,0 +1,9 @@
+start
+classname:BattleUserInfoBO:参战好友信息对象
+string:userId:好友用户id
+string:name:好友名称
+int:effective:战斗力
+int:systemHeroId:好友队长的英雄id
+int:isFriend:0 非好友 1 好友
+int:level:等级
+end

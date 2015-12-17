@@ -1,0 +1,8 @@
+action:SceneAction_move:用户移动
+start
+int:sceneId:场景id
+int:posX:目的点x坐标
+int:posY:目的点y坐标
+end
+start
+end

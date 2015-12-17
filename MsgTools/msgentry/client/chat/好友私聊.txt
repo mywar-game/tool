@@ -1,0 +1,14 @@
+action:ChatAction_privateOfChat:好友私聊
+error:2001:内容太长
+error:2002:与上一条内容相同，请10s后再发送
+error:2003:没有这个用户
+error:2006:你已经把对方拉黑
+error:2007:对方已经把你拉黑
+start
+string:userName:用户名
+string:toUserId:私聊的用户id
+string:content:聊天内容
+end
+start
+UserChatRecordBO:userChatRecordBO:用户聊天信息
+end

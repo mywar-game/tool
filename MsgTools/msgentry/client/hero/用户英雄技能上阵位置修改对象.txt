@@ -1,0 +1,5 @@
+start
+classname:UserHeroSkillPosChangeBO:用户英雄技能位置更新对象
+string:userHeroSkillId:用户英雄技能唯一id
+int:pos:31、32、33、34、35为团长技能位置
+end

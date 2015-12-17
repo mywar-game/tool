@@ -1,0 +1,7 @@
+action:ForcesAction_getMapCollectionInfo:获取地图采集点信息
+start
+int:mapId:地图id
+end
+start
+list<UserForcesBO>:userCollectList:用户采集信息列表
+end

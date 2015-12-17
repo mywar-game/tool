@@ -1,0 +1,2 @@
+		outputStream:WriteShort(self.@paramName@)
+

@@ -1,0 +1,12 @@
+action:TaskAction_addTask:接受任务
+error:2001:等级不足
+error:2002:任务已失效
+error:2003:已领取过了
+error:2004:没有日常任务次数
+error:2005:每次只能领取一次任务
+start
+int:systemTaskId:系统任务id
+int:star:星数
+end
+start
+end

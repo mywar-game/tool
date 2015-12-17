@@ -1,0 +1,15 @@
+action:PackAction_abandonTool:背包丢弃道具
+start
+int:toolType:道具类型
+int:toolId:道具id
+int:toolNum:道具数量
+String:userEquipId:用户装备id
+String:userGemstoneId:用户宝石id
+end
+start
+int:toolType:道具类型
+int:toolId:道具id
+int:toolNum:道具数量
+String:userEquipId:用户装备id
+String:userGemstoneId:用户宝石id
+end

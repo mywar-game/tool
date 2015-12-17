@@ -1,0 +1,6 @@
+action:PkAction_getPkFightLog:查看战斗日志
+start
+end
+start
+List<PkFightLogBO>:logList:战斗日志列表
+end

@@ -1,0 +1,6 @@
+start
+classname:AdminSendAttachBO:用户发送道具对象
+int:attachId:附件id(装备常量id或者道具常量id)
+int:attachType:附件类型(1代表道具2代表装备)
+int:attachNum:附件数量
+end

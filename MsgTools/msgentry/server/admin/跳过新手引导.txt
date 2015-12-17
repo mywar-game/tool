@@ -1,0 +1,8 @@
+action:AdminAction_recordGuideStep:跳过新手引导
+start
+string:userId:用户id
+int:guideStep:引导步骤
+string:ip:ip
+end
+start
+end

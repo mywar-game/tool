@@ -1,0 +1,8 @@
+start
+classname:UserMessageInfoBO:用户留言信息对象
+string:userId:用户id
+string:userName:用户名称
+string:content:留言内容
+long:time:留言时间
+int:systemHeroId:系统英雄id
+end

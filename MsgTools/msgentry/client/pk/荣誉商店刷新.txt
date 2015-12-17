@@ -1,0 +1,7 @@
+action:PkAction_refreshMall:荣誉商店刷新
+error:2001:没有刷新次数
+error:3008:荣誉点不足
+start
+end
+start
+end

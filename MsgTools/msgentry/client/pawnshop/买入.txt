@@ -1,0 +1,9 @@
+action:PawnshopAction_buyIn:买入
+start
+int:mallId:买入的商品id
+int:num:买入数量
+int:camp:阵营
+end
+start
+CommonGoodsBeanBO:drop:通用奖励对象
+end

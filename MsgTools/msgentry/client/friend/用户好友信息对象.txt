@@ -1,0 +1,10 @@
+start
+classname:UserFriendInfoBO:用户好友信息对象
+int:isOnline:是否在线（0 离线 1 在线 ）
+string:userId:好友用户id
+string:name:好友名称
+int:camp:阵营
+int:level:等级
+int:effective:战斗力
+int:systemHeroId:好友队长的英雄id
+end

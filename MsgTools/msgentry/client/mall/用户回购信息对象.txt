@@ -1,0 +1,9 @@
+start
+classname:UserBuyBackInfoBO:用户回购信息对象
+string:buyBackId:回购id
+int:toolType:物品类型
+int:toolId:物品id
+int:toolNum:物品数量
+string:equipMainAtrr:装备主属性
+string:equipSecondaryAttr:装备副属性
+end

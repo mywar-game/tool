@@ -1,0 +1,7 @@
+action:ForcesAction_getMapForces:获取某个地图下所有用户关卡信息列表
+start
+int:mapId:地图id
+end
+start
+list<UserForcesBO>:userForcesList:用户关卡对象，如果对应地图的关卡没有在此列表中找到数据，则说明用户还没有攻打过此关卡，客户端需要缓存该对象，并维护该对象的变化，不要重复去查询
+end

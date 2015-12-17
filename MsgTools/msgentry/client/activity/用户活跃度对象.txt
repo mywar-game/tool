@@ -1,0 +1,6 @@
+start
+classname:UserActivityTaskBO:用户职业信息对象
+int:activityTaskId:活跃度id
+int:finishTimes:已完成的次数
+int:status:0 未完成 1 完成
+end

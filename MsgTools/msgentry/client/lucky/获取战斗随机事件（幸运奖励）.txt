@@ -1,0 +1,6 @@
+action:LuckyAction_getBattleLuckyReward:获取战斗随机事件
+start
+end
+start
+CommonGoodsBeanBO:drop:通用掉落对象
+end

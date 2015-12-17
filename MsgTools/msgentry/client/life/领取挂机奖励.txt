@@ -1,0 +1,12 @@
+action:LifeAction_receiveReward:领取挂机奖励
+error:2001:没有在挂机
+error:2002:没有奖励
+error:4001:背包满了
+error:4002:英雄背包已满
+start
+int:category:类别 （1 矿场 2 花圃 3 渔场）
+end
+start
+CommonGoodsBeanBO:drop:掉落物品
+UserLifeInfoBO:userLifeInfoBO:挂机信息
+end

@@ -1,0 +1,6 @@
+action:FriendAction_deleteBlack:删除黑名单
+start
+string:userBlackId:好友id
+end
+start
+end

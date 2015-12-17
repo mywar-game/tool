@@ -1,0 +1,8 @@
+action:LegionAction_oneClickReject:一键拒绝
+error:2001:没有加入该公会
+error:2004:你没有该操作权限
+error:2005:公会被解散了
+start
+end
+start
+end

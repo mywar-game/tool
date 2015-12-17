@@ -1,0 +1,6 @@
+start
+classname:UserExploreInfoBO:用户探索信息对象
+int:mapId:地图Id
+int:integral:积分
+int:exploreTimes:剩余探索次数
+end

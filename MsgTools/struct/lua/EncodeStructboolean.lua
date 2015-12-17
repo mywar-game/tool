@@ -1,0 +1,2 @@
+		outputStream:WriteBoolean(self.@paramName@)
+

@@ -1,0 +1,15 @@
+start
+classname:UserMailBO:用户邮件对象
+int:userMailId:用户邮件id
+int:mailType:邮件类型（-1 用户间邮件）
+int:showType:显示类型
+int:status:邮件状态（0 新邮件 1 已读 2 已删除）
+int:receiveStatus:领取状态（0 未领取 1 已领取）
+string:content:内容
+string:title:标题
+string:sign:署名
+string:fromUserId:来自谁的邮件，只有用户邮件才有
+long:createdTime:创建时间
+int:expiredTime:过期时间
+List<GoodsBeanBO>:goodsBeanBOList:附件物品
+end

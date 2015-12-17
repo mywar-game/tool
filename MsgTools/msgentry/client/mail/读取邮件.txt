@@ -1,0 +1,7 @@
+action:MailAction_read:读取邮件
+start
+int:userMailId:用户邮件id
+end
+start
+int:userMailId:用户邮件id
+end

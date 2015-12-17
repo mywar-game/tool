@@ -1,0 +1,9 @@
+start
+classname:UserGemstoneBO:用户宝石对象
+string:userGemstoneId:用户宝石唯一id
+string:userEquipId:宝石镶嵌的用户装备id
+int:gemstoneId:系统宝石id
+string:attr:宝石属性（eg: strength:10,agile:3  json格式）
+int:pos:宝石位置
+int:storehouseNum:仓库数量 为1时，即该装备是在仓库中 
+end

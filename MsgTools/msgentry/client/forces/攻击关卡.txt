@@ -1,0 +1,17 @@
+action:ForcesAction_attack:攻击关卡
+error:2001:等级不足
+error:2004:次数不足
+error:2005:尚未通关前一关卡
+error:2006:有部分英雄正在挂机中
+error:4002:英雄背包已满
+error:4001:背包已满
+start
+int:mapId:地图id
+int:forcesId:攻击或采集的关卡id
+int:forcesType:关卡类型如果是普通怪物或采集关卡传1即可，如果为boss关卡 1代表简单、2精英、3困难
+string:userFriendId:好友的用户id
+end
+start
+list<UserEquipBO>:userEquipList:好友装备列表
+List<GoodsBeanBO>:goodsList:即将获得的物品
+end

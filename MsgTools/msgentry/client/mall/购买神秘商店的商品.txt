@@ -1,0 +1,13 @@
+action:MallAction_buyMysteriousMall:购买神秘商店的商品
+error:2001:购买次数不足
+error:3003:钻石不足
+error:3004:金币不足
+error:4001:背包已满
+start
+int:mallId:商品id
+end
+start
+CommonGoodsBeanBO:drop:通用奖励对象
+int:money:用户剩余钻石
+int:gold:用户剩余金币
+end

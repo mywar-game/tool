@@ -1,0 +1,10 @@
+start
+classname:PkRankBO:竞技场排行榜对象
+int:rank:排名
+string:userName:用户名称
+string:legionName:公会名称
+int:level:用户等级
+int:defencePower:防守装等
+int:systemHeroId:队长头像英雄id
+List<int>:defenceHeroList:防守阵营英雄id
+end

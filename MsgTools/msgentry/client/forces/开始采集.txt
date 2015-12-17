@@ -1,0 +1,11 @@
+action:ForcesAction_startCollect:开始采集
+error:2004:没有采集次数
+error:2006:上阵英雄在挂机中
+error:4002:英雄背包已满
+error:4001:背包已满
+start
+int:mapId:地图id
+int:forcesId:采集点id
+end
+start
+end

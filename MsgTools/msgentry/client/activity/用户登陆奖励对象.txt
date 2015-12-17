@@ -1,0 +1,5 @@
+start
+classname:UserLoginRewardBO:用户登陆奖励对象
+int:day:天数
+int:status:领取状态 0 未领取  1 已领取
+end

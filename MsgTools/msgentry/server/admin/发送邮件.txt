@@ -1,0 +1,13 @@
+action:AdminAction_sendMail:发送邮件
+start
+string:title:邮件标题
+string:content:邮件内容
+string:toolIds:道具ids
+string:lodoIds:玩家游戏id
+string:target:目标
+long:date:发送时间
+string:sourceId:邮件源id
+string:partner:渠道号
+end
+start
+end

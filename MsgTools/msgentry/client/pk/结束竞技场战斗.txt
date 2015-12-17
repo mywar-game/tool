@@ -1,0 +1,10 @@
+action:PkAction_endPkFight:结束竞技场战斗
+error:2001:时间校验失败
+start
+int:flag:胜负（0 负 1 胜）
+end
+start
+CommonGoodsBeanBO:drop:通用奖励对象
+int:oldRank:用户之前排名
+int:rank:用户当前排名
+end

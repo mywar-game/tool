@@ -1,0 +1,12 @@
+action:PkAction_exchange:兑换商品
+error:2001:没有兑换次数
+error:3008:荣誉点不足
+error:4001:背包已满
+error:4002:英雄背包已满
+start
+int:mallId:商品id
+end
+start
+int:honour:剩余荣誉点
+CommonGoodsBeanBO:drop:通用奖励对象
+end

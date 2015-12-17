@@ -1,0 +1,4 @@
+action:Chat_pushChatInfo:聊天信息推送
+start
+UserChatRecordBO:userChatRecordBO:用户聊天信息
+end

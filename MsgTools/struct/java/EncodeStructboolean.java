@@ -1,0 +1,2 @@
+		outputStream.writeBoolean(@paramName@);
+

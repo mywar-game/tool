@@ -1,0 +1,20 @@
+action:EquipAction_equipRecycle:回收
+error:2001:还穿戴在英雄身上
+error:2002:没有这个装备
+error:2003:还未开始分解
+error:3007:等级不足
+error:3005:道具不足
+error:3004:金币不足
+error:4001:背包已满
+error:4003:分解还未完成
+start
+int:toolType:道具类型
+int:toolId:道具id
+string:userEquipId:用户装备id
+int:status:状态：1 开始分解 2 取消分解 3 完成分解
+end
+start
+CommonGoodsBeanBO:drop:通用奖励对象
+string:userEquipId:用户装备id
+int:gold:用户剩余金币
+end

@@ -1,0 +1,16 @@
+action:FriendAction_applyFriend:申请添加好友
+error:2001:不存在该用户
+error:2002:已达好友上限
+error:2003:对方好友已满
+error:2004:你已申请过了
+error:2005:你们已经是好友
+error:2006:你把对方拉黑了
+error:2007:你被对方拉黑了
+error:2008:自己不能加自己为好友
+error:3007:未到好友系统开放等级
+start
+string:targetUserId:对方用户id
+string:name:用户名
+end
+start
+end

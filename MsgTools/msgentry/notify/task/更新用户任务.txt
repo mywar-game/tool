@@ -1,0 +1,4 @@
+action:Task_update:任务状态变更推送接口
+start
+list<UserTaskBO>:updateUserTaskList:需要更新的用户任务信息，不存在就添加，存在就覆盖
+end

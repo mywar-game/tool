@@ -1,0 +1,13 @@
+action:HeroAction_careerClear:职业解锁
+error:4005:系统数据缺失
+error:3007:解锁的等级不足
+error:2001:已经解锁完毕
+error:2002:不能越级解锁
+error:3009:职业经验不足
+start
+int:detailedCareerId:详细职业id
+end
+start
+int:jobExp:用户剩余魂能
+UserCareerInfoBO:userCareerInfo:用户职业信息对象
+end

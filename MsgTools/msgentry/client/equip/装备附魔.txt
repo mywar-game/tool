@@ -1,0 +1,16 @@
+action:EquipAction_equipMagic:装备附魔
+error:2001:还未开始附魔
+error:3005:道具不足
+error:3007:等级不足
+error:3004:金币不足
+error:4003:附魔还未完成
+start
+string:userEquipId:用户装备id
+int:reelId:卷轴id
+int:status:状态：1 开始 2 取消 3 完成
+end
+start
+UserEquipBO:userEquipBO:用户装备信息
+List<GoodsBeanBO>:goodsList:消耗的道具
+int:gold:用户剩余金币
+end

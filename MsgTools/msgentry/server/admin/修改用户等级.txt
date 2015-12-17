@@ -1,0 +1,7 @@
+action:AdminAction_updateUserLevel:修改用户等级
+start
+string:userId:用户id
+int:targetLevel:用户等级
+end
+start
+end

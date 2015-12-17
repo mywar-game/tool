@@ -1,0 +1,6 @@
+start
+classname:GoodsBeanBO:通用奖励对象
+int:goodsType:奖励物品类型
+int:goodsId:奖励物品id
+int:goodsNum:奖励物品数量
+end

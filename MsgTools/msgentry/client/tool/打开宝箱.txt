@@ -1,0 +1,12 @@
+action:ToolAction_openBox:打开宝箱
+error:2001:宝箱不足
+error:2002:等级不足
+error:2003:这不是一个宝箱
+error:2004:钥匙不足
+start
+int:toolId:宝箱id
+end
+start
+CommonGoodsBeanBO:drop:获得的物品
+List<GoodsBeanBO>:toolList:消耗的道具
+end

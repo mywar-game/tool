@@ -1,0 +1,9 @@
+action:TaskAction_commitTask:提交任务(有些需要客户端提交的任务，如-寻找npc)
+start
+int:systemTaskId:系统任务id
+int:times:完成次数
+end
+start
+int:systemTaskId:系统任务id
+int:status:状态
+end

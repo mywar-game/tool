@@ -1,0 +1,7 @@
+action:ActivityAction_receiveGiftBag:领取声望奖励
+start
+string:code:礼包码
+end
+start
+CommonGoodsBeanBO:drop:通用奖励对象
+end

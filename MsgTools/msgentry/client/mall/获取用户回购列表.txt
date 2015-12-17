@@ -1,0 +1,6 @@
+action:MallAction_getBuyBackList:获取用户回购列表
+start
+end
+start
+list<UserBuyBackInfoBO>:userBuyBackInfoList:用户回购信息列表
+end

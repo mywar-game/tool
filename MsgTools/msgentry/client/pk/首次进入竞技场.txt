@@ -1,0 +1,9 @@
+action:PkAction_enterPk:首次进入竞技场
+error:3007:未到开放等级
+start
+end
+start
+UserPkInfoBO:userPkInfoBO:用户竞技场信息
+list<string>:userDefenceHeroList:用户防守阵容列表
+list<PkChallengerBO>:userPkList:用户可挑战列表
+end

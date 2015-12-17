@@ -1,0 +1,7 @@
+action:MailAction_oneClickDelete:一键删除邮件
+error:2001:无邮件可删除
+start
+end
+start
+List<int>:userMailIdList:用户邮件id列表
+end

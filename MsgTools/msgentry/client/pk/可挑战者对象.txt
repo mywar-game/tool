@@ -1,0 +1,8 @@
+start
+classname:PkChallengerBO:可挑战者对象
+string:userId:用户id
+string:challengerName:可挑战者名称
+int:systemHeroId:系统英雄id
+int:rank:排名
+int:power:总装等
+end

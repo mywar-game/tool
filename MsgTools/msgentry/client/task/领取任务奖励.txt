@@ -1,0 +1,12 @@
+action:TaskAction_receiveTask:领取任务奖励
+error:2001:任务未完成
+error:2002:任务已领取
+start
+int:systemTaskId:系统任务id
+end
+start
+CommonGoodsBeanBO:drop:得到的奖励对象
+GoodsBeanBO:goods:上交的道具对象
+List<String>:userEquipIdList:扣除的用户装备id列表
+List<String>:userGemstoneIdList:扣除的用户宝石id列表
+end

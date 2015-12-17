@@ -1,0 +1,9 @@
+action:ForcesAction_getCopyForcesInfo:获取用户副本关卡信息列表
+error:3007:未到开放等级
+start
+int:mapId:该副本的所在的地图id
+int:bigForcesId:大关卡id
+end
+start
+list<UserForcesBO>:userForcesList:用户副本关卡信息列表
+end

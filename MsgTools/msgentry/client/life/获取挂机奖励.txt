@@ -1,0 +1,10 @@
+action:LifeAction_getHangupRewardList:获取挂机奖励
+error:2001:正在挂机中
+start
+int:category:的类别 （1 矿场 2 花圃 3 渔场）
+string:userHeroId:用户英雄id
+string:userFriendId:用户好友id
+end
+start
+list<GoodsBeanBO>:userLifeRewardList:挂机奖励列表
+end

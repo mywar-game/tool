@@ -1,0 +1,5 @@
+start
+classname:UserActivityTaskRewardBO:用户活跃度奖励对象
+int:activityTaskRewardId:奖励id
+int:status:0 不能领取 1 未领取 2 已领取
+end

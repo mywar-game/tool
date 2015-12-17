@@ -1,0 +1,13 @@
+start
+classname:UserEquipBO:用户装备对象
+string:userId:用户编号
+string:userEquipId:用户装备唯一id
+string:userHeroId:用户英雄唯一id
+int:equipId:系统装备唯一id
+string:equipMainAttr:装备主属性
+string:equipSecondaryAttr:装备次级属性
+int:pos:用户穿戴的位置
+int:holeNum:几个镶孔
+string:magicEquipAttr:装备附魔的属性
+int:storehouseNum:仓库数量 为1时，即该装备是在仓库中 
+end

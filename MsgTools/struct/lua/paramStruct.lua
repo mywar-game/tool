@@ -1,0 +1,2 @@
+
+	self.@paramName@=@initValue@ --@note@

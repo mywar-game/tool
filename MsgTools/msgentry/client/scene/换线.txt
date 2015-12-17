@@ -1,0 +1,9 @@
+action:SceneAction_changeLine:换线
+start
+int:sceneId:场景id
+int:targetLineNum:目标线编号（从0开始计数 即0为1线  1为2线）
+end
+start
+int:userLineNum:（从0开始计数 即0为1线  1为2线）
+list<UserSceneDataBO>:sceneUsersList:场景内的用户数据对象列表
+end

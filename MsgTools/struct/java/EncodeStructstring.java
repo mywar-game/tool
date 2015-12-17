@@ -1,0 +1,2 @@
+		outputStream.writeUTF(@paramName@);
+

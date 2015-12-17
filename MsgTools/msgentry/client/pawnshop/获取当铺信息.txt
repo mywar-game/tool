@@ -1,0 +1,7 @@
+action:PawnshopAction_getPawnshopInfo:获取当铺信息
+start
+int:camp:阵营
+end
+start
+List<UserPawnshopBO>:userPawnshopList:当铺商品信息对象列表
+end

@@ -1,0 +1,8 @@
+action:ActivityAction_receiveActivityTaskReward:领取用户活跃度奖励
+error:2001:没有可领取奖励
+error:4001:背包已满
+start
+end
+start
+CommonGoodsBeanBO:drop:通用掉落对象
+end

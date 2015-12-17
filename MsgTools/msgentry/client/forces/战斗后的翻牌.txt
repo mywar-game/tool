@@ -1,0 +1,12 @@
+action:ForcesAction_openBattleBox:战斗后的翻牌
+error:2001:只有副本才能开启宝箱哦！
+error:2002:只有一次开宝箱的机会哦！
+error:4001:背包已满
+error:4002:英雄背包已满
+error:3003:钻石不足
+start
+int:status:状态 1 不开启  2 开启宝箱
+end
+start
+CommonGoodsBeanBO:drop:得到的奖励对象
+end

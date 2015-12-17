@@ -1,0 +1,7 @@
+action:TaskAction_oneClickRefresh:一键刷新
+error:3003:钻石不足
+start
+end
+start
+list<UserDailyTaskInfoBO>:userDailyTaskInfoList:用户日常任务列表
+end

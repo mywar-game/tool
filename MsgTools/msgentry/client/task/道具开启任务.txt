@@ -1,0 +1,7 @@
+action:TaskAction_toolOpenTask:道具开启任务
+start
+int:toolId:道具id
+end
+start
+int:systemTaskId:系统任务id
+end

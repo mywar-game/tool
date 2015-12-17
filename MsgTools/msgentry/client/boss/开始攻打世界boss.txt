@@ -1,0 +1,13 @@
+action:BossAction_startAttackBoss:开始攻打世界boss
+error:2001:BOSS还未降临
+error:2002:还未到攻打BOSS的时间
+error:2003:还未复活
+start
+int:mapId:地图id
+int:x:坐标x
+int:y:坐标y
+end
+start
+List<UserBossDataBO>:userDataList:用户数据
+int:isRoomOwner:是否为房主 0 否 1 是
+end

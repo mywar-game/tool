@@ -1,0 +1,12 @@
+action:FriendAction_auditApply:审核好友申请
+error:2001:你们已经是好友
+error:2002:你已把他拉黑了
+error:2003:他把你给拉黑了
+error:2004:你的好友列表已满
+error:2005:对方的好友列表已满
+start
+int:type:审核类型（0 拒绝 1 同意）
+int:userMailId:用户邮件id
+end
+start
+end

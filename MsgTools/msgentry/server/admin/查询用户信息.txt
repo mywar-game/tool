@@ -1,0 +1,7 @@
+action:AdminAction_getUserInfo:获取用户信息
+start
+string:userId:用户id
+end
+start
+UserBO:user:用户信息
+end

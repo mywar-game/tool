@@ -1,0 +1,8 @@
+action:LifeAction_cancelHangup:取消挂机
+error:2001:没有在挂机
+start
+int:category:类别 （1 矿场 2 花圃 3 渔场）
+end
+start
+UserLifeInfoBO:userLifeInfoBO:用户生活信息对象
+end

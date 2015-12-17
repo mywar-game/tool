@@ -1,0 +1,2 @@
+		outputStream:WriteBYTE(self.@paramName@)
+

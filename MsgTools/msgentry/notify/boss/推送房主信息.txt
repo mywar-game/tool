@@ -1,0 +1,4 @@
+action:Boss_pushBossRoomOwner:推送房主信息
+start
+string:userId:房主的用户id
+end

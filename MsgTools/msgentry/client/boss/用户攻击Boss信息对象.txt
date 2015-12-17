@@ -1,0 +1,20 @@
+start
+classname:UserAttactBossInfoBO:用户攻击Boss信息对象
+string:userId:用户id
+int:isBlood:是否掉血
+int:bDodge:是否躲闪
+int:bParry:是否格挡
+int:bCrit:是否暴击
+int:effectId:效果ID
+int:resId:资源ID
+int:callHeroId:召唤英雄ID(变身时使用）
+int:beingAttackState:法术反射
+int:hurt:对Boss伤害值
+int:treatment:治疗量
+int:beHit:承受伤害值
+string:targetUserId:目标用户
+int:status:是否死亡 1 还鲜活着 0 挂了
+long:dieTime:死亡时间
+int:x:坐标x
+int:y:坐标y
+end

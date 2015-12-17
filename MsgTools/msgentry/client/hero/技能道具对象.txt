@@ -1,0 +1,5 @@
+start
+classname:SkillToolBO:技能道具对象
+int:toolId:技能书道具id
+int:toolNum:技能书数量
+end

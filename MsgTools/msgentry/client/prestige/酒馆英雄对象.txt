@@ -1,0 +1,5 @@
+start
+classname:InviteHeroBO:酒馆英雄对象
+int:systemHeroId:系统英雄id
+string:heroName:英雄名称
+end

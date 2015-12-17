@@ -1,0 +1,8 @@
+action:TaskAction_getUserDailyTaskInfo:获取用户日常任务信息
+error:3007:暂未开放
+start
+end
+start
+int:remainderTimes:剩余次数
+list<UserDailyTaskInfoBO>:userDailyTaskInfoList:用户日常任务列表
+end

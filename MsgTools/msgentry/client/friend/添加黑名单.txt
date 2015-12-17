@@ -1,0 +1,6 @@
+action:FriendAction_addBlack:添加黑名单
+start
+string:targetUserId:对方用户id
+end
+start
+end

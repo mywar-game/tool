@@ -1,0 +1,6 @@
+start
+classname:UserPkInfoBO:用户竞技场信息对象
+int:rank:排名
+int:challengeTimes:剩余挑战次数
+long:remainderTime:剩余可挑战时间
+end

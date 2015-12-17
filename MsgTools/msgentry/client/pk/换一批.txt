@@ -1,0 +1,6 @@
+action:PkAction_refreshChallenger:换一批
+start
+end
+start
+List<PkChallengerBO>:userPkList:用户可挑战列表
+end

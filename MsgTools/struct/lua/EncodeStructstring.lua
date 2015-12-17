@@ -1,0 +1,2 @@
+		outputStream:WriteUTFString(self.@paramName@)
+

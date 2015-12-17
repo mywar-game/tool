@@ -1,0 +1,6 @@
+start
+classname:UserToolBO:用户道具对象
+int:toolId:道具id，即道具系统常量表中的唯一id
+int:toolNum:道具数量
+int:storehouseNum:仓库数量
+end

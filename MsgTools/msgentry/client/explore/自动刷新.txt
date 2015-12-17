@@ -1,0 +1,13 @@
+action:ExploreAction_autoRefresh:自动刷新
+error:2001:已经没有探索次数
+error:2002:你已拥有探索的所有英雄
+error:3003:钻石不足
+start
+end
+start
+int:mapId:地图Id
+int:stop:是否停止 1 是 0 否
+int:integral:用户探索积分
+int:cost:花费钻石
+int:mon:剩余钻石数
+end

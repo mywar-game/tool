@@ -1,0 +1,16 @@
+action:HeroAction_promoteHeroStar:升星
+error:2001:已经是最高星数
+error:2002:这货不是幸运石
+error:3004:金币不足
+error:3005:道具不足
+start
+int:type:类型 1 材料升星 2 道具升星
+string:userHeroId:用户英雄id
+GoodsBeanBO:tool:幸运石
+end
+start
+UserHeroBO:userHeroBO:用户英雄
+int:gold:用户剩余金币
+int:money:用户剩余钻石
+List<GoodsBeanBO>:goodsList:消耗的道具
+end

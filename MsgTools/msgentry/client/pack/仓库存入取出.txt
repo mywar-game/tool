@@ -1,0 +1,20 @@
+action:PackAction_storehouseInOrOut:仓库存入或者取出
+error:3005:没有那么多的道具丫！
+error:4006:仓库已满
+error:4001:背包已满
+start
+int:type:类型 1 存入仓库 0 取出
+int:toolType:道具类型
+int:toolId:道具id
+int:toolNum:道具数量
+string:userEquipId:用户装备id
+string:userGemstoneId:用户宝石id
+end
+start
+int:type:类型 1 存入仓库 0 取出
+int:toolType:道具类型
+int:toolId:道具id
+int:toolNum:道具数量
+string:userEquipId:用户装备id
+string:userGemstoneId:用户宝石id
+end

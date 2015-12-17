@@ -1,0 +1,14 @@
+start
+classname:ResUserMailBO:邮件对象
+int:userMailId:用户邮件id
+string:userId:用户id
+int:emailType:邮件逻辑类型
+int:emailShowType:显示类型
+string:systemMailId:系统邮件id
+int:status:邮件状态
+int:receiveStatus:领取状态
+string:param:参数
+long:createdTime:创建时间
+long:updatedTime:更新时间
+int:sourceId:来源id
+end

@@ -1,0 +1,6 @@
+start
+classname:UserBossInfoBO:用户boss战的相关信息
+string:userId:用户id
+int:status:用户的状态   0 死亡 1 活着  2 已复活
+long:dieTime:用户的死亡时间（时间戳）
+end

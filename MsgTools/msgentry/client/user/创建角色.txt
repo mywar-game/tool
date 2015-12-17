@@ -1,0 +1,10 @@
+action:UserAction_creat:创建角色接口
+error:2001:用户名已存在
+error:2002:用户名非法(4个汉字 12个字母)
+error:2003:用户已创建过角色了
+start
+int:roleId:角色id
+string:roleName:角色名称
+end
+start
+end

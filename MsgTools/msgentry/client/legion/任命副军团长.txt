@@ -1,0 +1,14 @@
+action:LegionAction_appointLegionDeputy:任命副军团长
+error:2001:没有加入该公会
+error:2004:你没有该操作权限
+error:2005:公会被解散了
+error:2007:该玩家去了另一个公会
+error:2008:该玩家已经离开公会
+error:2009:0级公会没有副会长
+error:2010:副会长已经满员
+start
+string:deputyUserId:晋升的用户id
+end
+start
+string:deputyUserId:晋升的用户id
+end

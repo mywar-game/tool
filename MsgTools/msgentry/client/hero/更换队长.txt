@@ -1,0 +1,6 @@
+action:HeroAction_changeTeamLeader:更换队长
+start
+string:userHeroId:更换为队长的用户英雄id
+end
+start
+end

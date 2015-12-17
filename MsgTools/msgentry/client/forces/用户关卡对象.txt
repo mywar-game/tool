@@ -1,0 +1,10 @@
+start
+classname:UserForcesBO:用户关卡对象
+string:userId:用户编号
+int:mapId:关卡地图id
+int:bigForcesId:大关卡id
+int:forcesId:关卡id
+int:status:状态-状态 0 未通关  1 通过了
+int:forcesType:1 简单  2  普通 3 精英 4 困难 如没有记录也没有通关
+int:times:今日已攻打次数
+end

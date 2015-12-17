@@ -1,0 +1,6 @@
+action:UserAction_recordGuideStep:记录玩家新手引导
+start
+int:guideStep:引导步奏id
+end
+start
+end

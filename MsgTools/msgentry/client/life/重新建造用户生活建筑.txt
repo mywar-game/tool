@@ -1,0 +1,11 @@
+action:LifeAction_reCreateLifeBuilder:重新建造用户生活建筑
+error:2001:已经建造了
+error:2002:重建的建筑正在工作中
+error:3003:钻石不足
+error:3004:金币不足
+start
+int:category:重新建造的类别 （1 矿场 2 花圃 3 渔场）
+end
+start
+UserLifeInfoBO:userLifeInfoBO:用户生活信息对象
+end

@@ -1,0 +1,4 @@
+action:Boss_pushUserLeave:推送用户退出boss战
+start
+string:userId:用户id
+end

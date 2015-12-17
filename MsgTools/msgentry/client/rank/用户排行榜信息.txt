@@ -1,0 +1,8 @@
+action:RankAction_getUserRankInfo:用户排行榜信息
+start
+int:type:排行榜类型 1 等级 2 战斗力 3 土豪榜
+end
+start
+List<UserRankBO>:rankList:排行榜列表
+UserRankBO:selfRankBO:自己的排行榜信息
+end

@@ -1,0 +1,11 @@
+action:SceneAction_enter:进入场景
+error:2001:场景还没有开启
+start
+int:sceneId:要进入的场景id
+int:posX:所在位置x坐标
+int:posY:所在位置y坐标
+end
+start
+int:userLineNum:给用户分配的线数（从0开始计数 即0为1线  1为2线）
+int:sceneLineNum:场景的线条数
+end

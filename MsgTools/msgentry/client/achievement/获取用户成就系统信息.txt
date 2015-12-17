@@ -1,0 +1,7 @@
+action:AchievementAction_getUserAchievementInfo:获取用户成就系统信息
+error:3007:等级不足
+start
+end
+start
+List<UserAchievementBO>:userAchievementList:用户成就列表
+end

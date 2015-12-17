@@ -1,0 +1,9 @@
+start
+classname:UserRankBO:用户排行榜对象
+string:userId:用户id
+int:rank:排名
+string:userName:用户名
+int:systemHeroId:队长头像
+long:value:排行榜的值
+string:leginName:军团名称
+end

@@ -1,0 +1,8 @@
+action:LegionAction_getLegionMemberList:查看公会成员列表
+error:2001:没有加入该公会
+error:2005:公会已解散
+start
+end
+start
+List<LegionMemberBO>:legionMemberList:公会成员列表
+end

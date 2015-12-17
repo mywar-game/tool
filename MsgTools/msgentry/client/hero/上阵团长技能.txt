@@ -1,0 +1,8 @@
+action:HeroAction_changeSkillPos:上阵团长技能
+start
+string:userSkillId:用户技能唯一id
+int:pos:要上阵到的位置（0为下阵）
+end
+start
+list<UserHeroSkillPosChangeBO>:updateHeroSkillPosList:需要更新的技能列表，修改列表中对应技能的位置属性
+end

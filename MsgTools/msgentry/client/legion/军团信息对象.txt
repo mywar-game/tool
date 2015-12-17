@@ -1,0 +1,13 @@
+start
+classname:LegionInfoBO:军团信息对象
+string:legionId:军团id
+int:exp:军团经验
+int:level:军团等级
+string:legionName:军团名称
+int:power:军团战斗力
+string:notice:军团公告
+string:declaration:军团宣言
+string:legionLeaderName:军团长姓名
+int:maxNum:最大人数
+int:currentNum:当前军团人数
+end

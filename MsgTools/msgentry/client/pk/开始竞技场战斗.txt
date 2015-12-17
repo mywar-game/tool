@@ -1,0 +1,10 @@
+action:PkAction_startPkFight:开始竞技场战斗
+error:2001:没有挑战次数
+error:2002:未到可挑战时间
+start
+string:targetUserId:挑战的用户id
+end
+start
+List<UserHeroBO>:userHeroList:用户防守方英雄列表
+List<UserEquipBO>:userEquipList:用户装备列表
+end

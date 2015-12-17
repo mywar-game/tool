@@ -1,0 +1,6 @@
+action:UserAction_recordOpenMap:记录开启的地图数据
+start
+int:mapId:开启的地图id
+end
+start
+end

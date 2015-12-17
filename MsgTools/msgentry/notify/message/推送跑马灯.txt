@@ -1,0 +1,4 @@
+action:Message_pushMessage:推送跑马灯
+start
+List<MessageBO>:messageList:跑马灯消息对象
+end

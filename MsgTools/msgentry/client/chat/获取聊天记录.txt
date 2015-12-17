@@ -1,0 +1,7 @@
+action:ChatAction_getChatRecord:获取聊天记录
+start
+int:type:聊天类型（1 世界 2 阵营 3 军团 4 私聊）
+end
+start
+List<UserChatRecordBO>:userChatRecordList:用户聊天信息
+end

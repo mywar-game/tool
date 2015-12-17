@@ -1,0 +1,9 @@
+start
+classname:UserBossDataBO:用户Boss战信息对象
+string:userId:用户唯一id
+string:userName:用户名
+UserHeroBO:userHeroBO:用户英雄
+List<UserEquipBO>:equipList:用户装备列表
+int:posX:进入场景所在x坐标
+int:posY:进入场景所在y坐标
+end

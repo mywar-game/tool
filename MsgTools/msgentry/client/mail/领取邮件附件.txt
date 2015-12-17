@@ -1,0 +1,12 @@
+action:MailAction_receive:领取邮件附件
+error:2001:邮件不存在
+error:2002:附件已领取
+error:2003:该邮件没有附件
+error:4001:背包满了
+error:4002:英雄背包已满
+start
+int:userMailId:用户邮件id
+end
+start
+CommonGoodsBeanBO:drop:通用奖励对象
+end

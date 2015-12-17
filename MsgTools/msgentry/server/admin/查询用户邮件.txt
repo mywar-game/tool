@@ -1,0 +1,7 @@
+action:AdminAction_searchMail:查询用户邮件
+start
+string:userId:用户id
+end
+start
+list<ResUserMailBO>:resUserMailBOList:返回邮件对象列表
+end

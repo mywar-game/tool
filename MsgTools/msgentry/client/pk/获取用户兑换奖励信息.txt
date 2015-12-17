@@ -1,0 +1,6 @@
+action:PkAction_getUserPkMallInfo:获取用户兑换奖励信息
+start
+end
+start
+List<PkMallBO>:pkMallList:荣誉兑换商城列表
+end

@@ -1,0 +1,6 @@
+action:Boss_pushWorldBossRank:推送世界Boss的排行榜
+start
+List<UserBossRankBO>:hurtRankList:伤害排行榜列表
+List<UserBossRankBO>:treamentRankList:治疗量排行榜列表
+List<UserBossRankBO>:beHitRankList:承受伤害排行榜列表
+end

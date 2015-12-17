@@ -1,0 +1,6 @@
+action:PkAction_getPkRank:查看排行榜
+start
+end
+start
+List<PkRankBO>:rankList:排行榜列表
+end

@@ -1,0 +1,12 @@
+action:MallAction_sell:出售
+error:3005:道具不足
+error:2001:该装备被英雄穿戴
+start
+string:userEquipId:用户装备id
+int:toolType:物品类型
+int:toolId:物品id
+int:toolNum:物品数量
+end
+start
+CommonGoodsBeanBO:drop:公共物品掉落
+end

@@ -1,0 +1,8 @@
+start
+classname:CommonGoodsBeanBO:通用奖励对象列表
+list<GoodsBeanBO>:goodsList:奖励对象列表,如money，金币，经验，道具等等
+list<UserHeroBO>:heroList:获得的英雄列表
+list<UserHeroSkillBO>:heroSkillList:获得的英雄技能列表(包括团长技能)
+list<UserEquipBO>:equipList:获得装备列表
+list<UserGemstoneBO>:gemstoneList:获得用户宝石列表
+end

@@ -1,0 +1,7 @@
+start
+classname:UserApplyLegionBO:用户申请信息
+string:userId:用户id
+string:userName:用户名
+int:level:等级
+int:effective:战斗力
+end

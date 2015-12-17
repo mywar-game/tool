@@ -1,0 +1,7 @@
+start
+classname:UserAchievementBO:用户成就对象
+int:achievementId:成就id
+int:finishTimes:完成次数
+int:status:状态 0 未完成 1 已完成 2 已领取
+long:time:更新时间
+end

@@ -1,0 +1,10 @@
+action:ExploreAction_refreshMap:刷新地图
+error:2001:已经没有探索次数
+error:3003:钻石不足
+start
+end
+start
+int:mapId:地图id
+int:integral:用户探索积分
+int:money:剩余钻石
+end

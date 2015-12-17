@@ -1,0 +1,8 @@
+action:PkAction_resetWaitingTime:重置等待时间
+error:2001:无需重置
+error:2002:已经重置过了
+error:3003:钻石不足
+start
+end
+start
+end

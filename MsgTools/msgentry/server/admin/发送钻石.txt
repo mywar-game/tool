@@ -1,0 +1,9 @@
+action:AdminAction_addUserMoney:给用户发钻石
+start
+string:userIds:用户Ids
+int:diamond:钻石
+boolean:isSendAll:是否发送全服
+end
+start
+string:result:返回的结果
+end

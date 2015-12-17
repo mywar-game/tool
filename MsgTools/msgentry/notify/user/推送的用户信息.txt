@@ -1,0 +1,25 @@
+action:User_push:角色登录接口
+start
+UserBO:userBO:用户对象
+list<UserTaskBO>:userTaskList:用户任务列表
+list<UserHeroBO>:userHeroList:用户英雄列表
+list<UserHeroSkillBO>:userHeroSkillList:用户英雄技能列表
+list<UserToolBO>:userToolList:用户道具列表
+list<UserEquipBO>:userEquipList:用户装备列表
+list<UserGemstoneBO>:userGemstoneList:用户宝石列表
+list<SystemActivityBO>:systemActivityList:系统活动列表
+list<int>:userOpenSceneIdList:用户已开启场景id列表
+list<int>:userPrestigeRewardIdList:用户已领取声望奖励id列表
+map<string>:systemConfig:系统配置信息,详情请查看数值表中系统配置表中的定义
+int:mailStatus:是否有新邮件 1 有 0 没有
+int:displayNum:同屏显示人数
+string:recordGuideStep:记录已走过的所有新手引导的步奏（99999  为跳过新手引导）
+string:openMaps:开启过的地图
+int:pkRank:竞技场排名（ -1 为未进入过竞技场）
+int:loginRewardStatus30:每月签到状态 0 未领取 1 已领取
+long:currentTime:服务器当前时间
+string:tips:用户弹窗提示
+WorldBossInfoBO:bossInfoBO:世界boss的相关信息 (空的话 boss还未出现)
+UserBossInfoBO:userBossInfo:用户boss战的相关信息(空的话 用户未攻击过boss)
+WeatherInfoBO:weatherInfo:当前天气信息
+end

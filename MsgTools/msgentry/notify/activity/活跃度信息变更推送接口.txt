@@ -1,0 +1,5 @@
+action:Activity_updateActivityTask:活跃度信息变更推送接口
+start
+list<UserActivityTaskRewardBO>:updateUserActivityTaskList:需要更新的用户活跃度信息
+int:point:用户活跃度
+end

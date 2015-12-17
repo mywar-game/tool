@@ -1,0 +1,8 @@
+action:UserAction_logout:服务器间通讯用户登出
+start
+string:userId:用户id
+string:userIp:用户ip
+int:onLineSeconds:用户在线时长(单位秒)
+end
+start
+end
